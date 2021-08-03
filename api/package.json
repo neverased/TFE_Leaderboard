@@ -1,0 +1,35 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "*",
+    "bluebird": "*",
+    "cookie-parser": "*",
+    "cookie-session": "^1.4.0",
+    "cors": "*",
+    "debug": "*",
+    "express": "*",
+    "express-async-router": "*",
+    "express-promise-router": "*",
+    "express-session": "^1.17.2",
+    "got": "^11.8.2",
+    "http-errors": "*",
+    "https": "^1.0.0",
+    "jade": "*",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.12.13",
+    "morgan": "*",
+    "mui-datatables": "*",
+    "node-fetch": "*",
+    "node-schedule": "*",
+    "nodemon": "*",
+    "npm-update-all": "*",
+    "passport": "^0.4.1",
+    "passport-steam": "^1.0.15",
+    "underscore": "*"
+  }
+}
